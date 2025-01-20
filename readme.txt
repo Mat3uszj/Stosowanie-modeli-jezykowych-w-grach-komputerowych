@@ -15,7 +15,8 @@ Link do folderu: https://github.com/Mat3uszj/Stosowanie-modeli-jezykowych-w-grac
 Zawiera pliki projektu Unity, w tym skrypty, zasoby oraz sceny gry.
 
 2.Lokalna_integracja
-Link do folderu: https://github.com/Mat3uszj/Stosowanie-modeli-jezykowych-w-grach-komputerowych.git
+Ze względu na zbyt duży plik douczonego modelu, nie można było go dodać do repozytorium więc został on dodany do dysku google.
+Link: https://drive.google.com/drive/folders/1MSEdZGFOE9hjSm9uoI50iicV4Dsf34H9?usp=sharing
 Zawiera:
 -Plik serwer_flask.py - Skrypt odpowiedzialny za uruchomienie backendu obsługującego zapytania z gry.
 -Folder Douczony_model - Pliki modelu przystosowane do specyfiki interakcji w grze.
