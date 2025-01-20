@@ -11,7 +11,7 @@ za pomocą douczonego modelu językowego, potrzebne do integracji lokalnej.
 Ze względu na rozmiar plików, wszystkie materiały zostały udostępnione na GitHub i podzielone na dwa główne foldery:
 
 1.Pliki_Unity
-Link do folderu: https://github.com/Mat3uszj/Stosowanie-modeli-jezykowych-w-grach-komputerowych.git
+Link do folderu: https://github.com/Mat3uszj/Stosowanie-modeli-jezykowych-w-grach-komputerowych/blob/main/Pliki_Unity.7z
 Zawiera pliki projektu Unity, w tym skrypty, zasoby oraz sceny gry.
 
 2.Lokalna_integracja
